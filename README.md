@@ -4,7 +4,8 @@
     Infanti Enrico
     
 ## Versione
-    5.0
+   Versione definitiva: 5.0   28/03/2015
+   Versioni precedenti: 1.0 - 2.0 - 3.0 - 4.0   21/03/2015
 
 ## Data release
     28/03/2015
@@ -21,7 +22,7 @@
                   e gli stampa in maniera 
                   ordinata in base a come gli ha prelevati.
                   
-    Da qui però, essendoci tempi e velocità diverse nel 'produrre' e 'consumare' gli elementi, 
+    Da qui però,essendoci tempi e velocità diverse nel 'produrre' e 'consumare' gli elementi, 
     nasce il problema del Busy Waiting
     (Il problema di chi deve entrare nel buffer per primo).
     Questo problema viene risolto usando una variabile booleana (Flag) 
