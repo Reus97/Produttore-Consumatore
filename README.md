@@ -20,6 +20,7 @@
     -Consumatore: Preleva dal Buffer i numeri o gli elementi inseriti dal thread Produttore 
                   e gli stampa in maniera 
                   ordinata in base a come gli ha prelevati.
+                  
     Da qui però, essendoci tempi e velocità diverse nel 'produrre' e 'consumare' gli elementi, 
     nasce il problema del Busy Waiting
     (Il problema di chi deve entrare nel buffer per primo).
