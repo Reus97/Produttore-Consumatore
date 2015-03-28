@@ -18,4 +18,8 @@
                   ordinata in base a come gli ha prelevati.
     Da qui però, essendoci tempi e velocità diverse nel 'produrre' e 'consumare' gli elementi, nasce il problema del Busy
     Waiting, (Il problema di chi deve entrare nel buffer per primo).
-    Questo problema viene risolto usando una variabile booleana (Flag) che se è impostata a 'True' fa in modo che uno dei     due thread rimane obbligatoriamente in attesa che l'altro abbia finito il suo lavoro. Se è impostata a 'False' su uno     dei due thread da la possiblità all'altro di entrare e compiere il suo compito.
+    Questo problema viene risolto usando una variabile booleana (Flag) 
+    che se è impostata a 'True' fa in modo che uno dei due thread 
+    rimane obbligatoriamente in attesa che l'altro abbia finito il suo lavoro.
+    Se è impostata a 'False' su uno dei due thread da la possiblità all'altro
+    di entrare e compiere il suo compito.
