@@ -5,6 +5,7 @@
     
 ## Versione
    Versione definitiva: 5.0   28/03/2015
+   
    Versioni precedenti: 1.0 - 2.0 - 3.0 - 4.0   21/03/2015
 
 ## Data release
